@@ -417,6 +417,7 @@
 				8C43FB5C19CEAAA1005803E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C43FB5D19CEAAA1005803E4 /* Build configuration list for PBXNativeTarget "TicTacToeTests" */ = {
 			isa = XCConfigurationList;
@@ -425,6 +426,7 @@
 				8C43FB5F19CEAAA1005803E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
