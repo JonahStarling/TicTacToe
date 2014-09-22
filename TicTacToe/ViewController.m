@@ -57,6 +57,7 @@
     _player2BL = @NO;
     _player2BM = @NO;
     _player2BR = @NO;
+    [_winnerText setText:@"Welcome to TicTacToe!"];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
